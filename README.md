@@ -1,6 +1,6 @@
 # Hola, mi nombre es Gustavo Espinoza 👋
 ![mi stack mas solido](https://miro.medium.com/v2/resize:fit:828/format:webp/1*k0SazfSJ-tPSBbt2WDYIyw.png)
-###Mi nombre es como mencione, Gustavo Espinoza, el 04-11-2022 decidi comenzar a programar, aprendiendo el stack MERN en primeras instancias, actualmente me encuentro en capacitacion de distintos lenguajes, tales como Java, Python, etc.
+### Mi nombre es como mencione, Gustavo Espinoza, el 04-11-2022 decidi comenzar a programar, aprendiendo el stack MERN en primeras instancias, actualmente me encuentro en capacitacion de distintos lenguajes, tales como Java, Python, etc.
 <!--
 **Gustasco/Gustasco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
